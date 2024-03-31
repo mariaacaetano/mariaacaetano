@@ -1,9 +1,9 @@
 # 👋 Hello World
 
-- 📌 I'm brazilian, it's a pleasure to meet you!
+- ✨ I'm Maria and it's a pleasure to meet you!
+- 📌 I'm a 23 years old brazilian student
 - 🌱 I'm currently learning about Web Development
 - 👀 I’m new here, but I'm already studying about technology since 2022.
-
 
 <div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
   <img src="readme_images/python_logo.png" alt="Linguagem Python" width="50">
