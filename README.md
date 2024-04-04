@@ -20,10 +20,8 @@
   <img src="readme_images/c_logo.png" alt="Linguagem C" width="100">
 </div>
 
-<br>
+### 📫 You can find me here!
 
-## 📫 You can find me here!
- 
 <div>
   <a href="https://www.instagram.com/nanda_panda/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:nanda2001caetano@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
