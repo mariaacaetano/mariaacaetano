@@ -22,7 +22,7 @@
 
 <br>
 
-### 📫 You can find me here!
+## 📫 You can find me here!
  
 <div>
   <a href="https://www.instagram.com/nanda_panda/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
