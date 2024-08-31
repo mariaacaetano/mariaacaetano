@@ -17,7 +17,7 @@
   <img src="readme_images/html_logo.png" alt="Linguagem HTML" width="100">
   <img src="readme_images/css_logo.png" alt="Folhas de Estilo Cascata" width="100">
   <img src="readme_images/javascript_logo.png" alt="Linguagem JavaScript" width="100">
-  <img src="readme_images/c_logo.png" alt="Linguagem C" width="100">
+<!--   <img src="readme_images/c_logo.png" alt="Linguagem C" width="100"> -->
 </div>
 
 ### 📫 You can find me here!
