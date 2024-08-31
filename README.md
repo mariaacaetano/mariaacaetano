@@ -1,10 +1,8 @@
 # 👋 Hello World
 
-- ✨ I'm Maria and it's a pleasure to meet you!
-- 📌 I'm a 23 years old brazilian student
-- 🌱 I'm currently learning about Web Development
-- 👀 I’m new here, but I'm already studying about technology since 2022.
-
+- ✨ I'm Maria and it's a pleasure to meet you.
+- 🌱 I'm currently learning about back-end development.
+- 📌 I'm studying about technology since 2022.
 
 <div>
   <a href="https://github.com/mariasamaa">
