@@ -1,8 +1,8 @@
 # 👋 Hello World
 
-- ✨ I'm Maria and it's a pleasure to meet you.
-- 🌱 I'm currently learning about back-end development.
-- 📌 I'm studying about technology since 2022.
+- ✨ Olá, me chamo Maria.
+- 🏛️ Estudo Sistemas de Informação no Instituto Federal Catarinense.
+- 🌱 Atualmente estou aprendendo mais sobre desenvolvimento back-end com django.
 
 <div>
   <a href="https://github.com/mariasamaa">
@@ -18,7 +18,7 @@
 <!--   <img src="readme_images/c_logo.png" alt="Linguagem C" width="100"> -->
 </div>
 
-### 📫 You can find me here!
+### 📫 Você pode me encontrar por aqui
 
 <div>
   <a href="https://www.instagram.com/nanda_panda/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
