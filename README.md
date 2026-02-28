@@ -4,7 +4,7 @@
 🎓 Estudante de Sistemas de Informação no Instituto Federal Catarinense.
 🌱 Atualmente focada em desenvolvimento back-end e fundamentos de arquitetura de sistemas.
 
----
+
 
 ## 🚀 Ferramentas e Linguagens
 
@@ -17,7 +17,7 @@
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
 [![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)](https://www.google.com/sheets/about/)
 
----
+
 
 ## 📫 Contato
 
