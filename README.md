@@ -1,7 +1,9 @@
 # 👋 Hello World
 
 ✨ Olá, me chamo Maria Fernanda.  
+
 🎓 Estudante de Sistemas de Informação no Instituto Federal Catarinense.
+
 🌱 Atualmente focada em desenvolvimento back-end e fundamentos de arquitetura de sistemas.
 
 
