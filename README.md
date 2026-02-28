@@ -1,14 +1,14 @@
-# 👋 Hello World
+## 👋 Hello World
 
 ✨ Olá, me chamo Maria Fernanda.  
-
-🎓 Estudante de Sistemas de Informação no Instituto Federal Catarinense.
-
-🌱 Atualmente focada em desenvolvimento back-end e fundamentos de arquitetura de sistemas.
-
+🎓 Estudante de Sistemas de Informação no Instituto Federal Catarinense.  
+🌱 Focada em desenvolvimento back-end e fundamentos de arquitetura de sistemas.  
+📚 Interesse em algoritmos, análise de dados e engenharia de software.
 
 
-## 🚀 Ferramentas e Linguagens
+## 🚀 Tecnologias
+
+Tecnologias que fazem parte da minha jornada acadêmica:
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html/)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
@@ -22,6 +22,8 @@
 
 
 ## 📫 Contato
+
+Conecte-se comigo:
 
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nanda_panda/)
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nanda2001caetano@gmail.com)
