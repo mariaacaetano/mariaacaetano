@@ -28,15 +28,15 @@ Tecnologias e ferramentas que fazem parte da minha jornada:
 
 ### [Swine DataMed](https://github.com/mariaacaetano/swine_datamed)
 
-Plataforma criada como ferramenta para o desenvolvimento do meu Trabalho de Conclusão de Curso (TCC), utilizando Python, Django e React para explorar relações entre sintomas e doenças em suínos. Reúne preparação de dados clínicos e comparação de mecanismos de inferência, incluindo aprendizado de máquina.
+Plataforma criada como ferramenta para o desenvolvimento do meu Trabalho de Conclusão de Curso (TCC), voltada à investigação das relações entre sintomas e doenças em suínos. Permite organizar dados clínicos, gerar conjuntos de dados e comparar mecanismos de inferência baseados em regras, grafos e aprendizado de máquina, apoiando a análise experimental da pesquisa. A plataforma é desenvolvida com Python, Django e React.
 
 ### [Leonor](https://github.com/mariaacaetano/Leonor)
 
-Plataforma de organização financeira pessoal e empresarial, focada em micro-empreendedores que precisam de gestão especializada em seu negócio. Permitindo acompanhar entradas, despesas, cartões e dashboards, a plataforma ajuda a entender não somente de onde vem as entradas e despesas, mas como melhorar a gestão financeira para o futuro. A plataforma é desenvolvida com Python, FastAPI, React, TypeScript e PostgreSQL. Permite acompanhar entradas, despesas, cartões e a visão geral do orçamento.
+Plataforma de organização financeira pessoal e empresarial, voltada a microempreendedores que precisam acompanhar as finanças do negócio e do dia a dia. Reúne entradas, despesas, cartões e dashboards para ajudar a entender de onde vêm os recursos, como são utilizados e como planejar o orçamento. A plataforma é desenvolvida com Python, FastAPI, React, TypeScript e PostgreSQL.
 
 ### [Aplicativo de Logs Transparentes — Fábrica de Software](https://github.com/fabricadesoftware-ifc)
 
-Aplicativo desenvolvido com Electron, React e Vite, relacionado a logs de transparência e construído de forma colaborativa na Fábrica de Software do IFC Araquari.
+Aplicativo desktop voltado à transparência e à verificação independente de dados de eleições brasileiras. Reúne recursos de consulta, verificação e visualização de informações de logs de transparência e boletins de urna, facilitando a análise dos registros eleitorais. O projeto é desenvolvido de forma colaborativa na Fábrica de Software do IFC Araquari, utilizando Electron, React e Vite.
 
 ## 📊 Estatísticas do GitHub
 
