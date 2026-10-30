@@ -5,8 +5,6 @@
 🌱 Meu foco é o desenvolvimento back-end e a construção de aplicações que resolvam problemas reais.  
 📚 Tenho interesse em arquitetura de sistemas, algoritmos, análise de dados e engenharia de software.
 
-Busco conectar desenvolvimento, organização da informação e experiência do usuário para criar soluções úteis e fáceis de usar.
-
 ## 🌱 Atualmente estudando
 
 - **Usabilidade e UX:** como tornar as interações mais claras e intuitivas.
