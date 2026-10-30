@@ -14,7 +14,7 @@
 
 ## 🚀 Desenvolvimento e Ferramentas
 
-Tecnologias e ferramentas que fazem parte dos meus projetos e estudos.
+Tecnologias e ferramentas que fazem parte da minha jornada
 
 ### Desenvolvimento
 
