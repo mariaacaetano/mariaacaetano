@@ -32,7 +32,7 @@ Plataforma criada como ferramenta para o desenvolvimento do meu Trabalho de Conc
 
 ### [Leonor](https://github.com/mariaacaetano/Leonor)
 
-Plataforma de organização financeira pessoal e empresarial, desenvolvida com Python, FastAPI, React, TypeScript e PostgreSQL. Permite acompanhar entradas, despesas, cartões e a visão geral do orçamento.
+Plataforma de organização financeira pessoal e empresarial, focada em micro-empreendedores que precisam de gestão especializada em seu negócio. Permitindo acompanhar entradas, despesas, cartões e dashboards, a plataforma ajuda a entender não somente de onde vem as entradas e despesas, mas como melhorar a gestão financeira para o futuro. A plataforma é desenvolvida com Python, FastAPI, React, TypeScript e PostgreSQL. Permite acompanhar entradas, despesas, cartões e a visão geral do orçamento.
 
 ### [Aplicativo de Logs Transparentes — Fábrica de Software](https://github.com/fabricadesoftware-ifc)
 
