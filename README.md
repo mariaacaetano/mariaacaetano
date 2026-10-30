@@ -6,6 +6,16 @@
 📚 Interesse em algoritmos, análise de dados e engenharia de software.
 
 
+## 📊 Estatísticas do GitHub
+
+<div>
+  <a href="https://github.com/mariaacaetano">
+    <img height="180em" alt="Estatísticas do GitHub de Maria Fernanda Caetano" src="https://github-stats-extended.vercel.app/api?username=mariaacaetano&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;locale=pt-br" />
+    <img height="180em" alt="Linguagens mais usadas por Maria Fernanda Caetano" src="https://github-stats-extended.vercel.app/api/top-langs/?username=mariaacaetano&amp;layout=compact&amp;langs_count=6&amp;theme=tokyonight&amp;locale=pt-br" />
+  </a>
+</div>
+
+
 ## 🚀 Tecnologias
 
 Tecnologias que fazem parte da minha jornada acadêmica:
@@ -27,3 +37,4 @@ Conecte-se comigo:
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nanda_panda/)
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nanda2001caetano@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariacaetano2804)
+
