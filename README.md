@@ -50,6 +50,6 @@ Aplicativo desenvolvido com Electron, React e Vite, relacionado a logs de transp
 
 Conecte-se comigo:
 
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nanda_panda/)
+[![Currículo Lattes](https://img.shields.io/badge/Curr%C3%ADculo%20Lattes-005CA9?style=for-the-badge)](https://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K8064775A0)
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nanda2001caetano@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariacaetano2804)
