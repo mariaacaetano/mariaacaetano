@@ -8,7 +8,8 @@
 ## 🌱 Atualmente estudando
 
 - **Usabilidade e UX:** como tornar as interações mais claras e intuitivas.
-- **Design de informação e engenharia de informação:** como estruturar e apresentar informações para facilitar a compreensão.
+- **Design de informação:** como estruturar e apresentar informações para facilitar a compreensão.
+- **Engenharia de produção:** como organizar processos e utilizar recursos de forma eficiente.
 - **Engenharia de prompts:** como formular instruções e avaliar respostas de modelos de IA, com ChatGPT e Codex.
 
 ## 🚀 Desenvolvimento e Ferramentas
