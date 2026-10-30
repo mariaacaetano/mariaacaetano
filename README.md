@@ -28,7 +28,7 @@ Tecnologias e ferramentas que fazem parte dos meus projetos e estudos.
 
 ### [Swine DataMed](https://github.com/mariaacaetano/swine_datamed)
 
-Aplicação desenvolvida com Python, Django e React para explorar relações entre sintomas e doenças em suínos. Reúne preparação de dados clínicos e comparação de mecanismos de inferência, incluindo aprendizado de máquina.
+Plataforma criada como ferramenta para o desenvolvimento do meu Trabalho de Conclusão de Curso (TCC), utilizando Python, Django e React para explorar relações entre sintomas e doenças em suínos. Reúne preparação de dados clínicos e comparação de mecanismos de inferência, incluindo aprendizado de máquina.
 
 ### [Leonor](https://github.com/mariaacaetano/Leonor)
 
